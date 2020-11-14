@@ -63,3 +63,7 @@ You can run all the three ipynb files either separately or sequentially.
 <a name="Reference"></a>
 reference https://github.com/vipul79321/Handwritten-Equation-Solver <br>
 dataset :https://www.kaggle.com/xainano/handwrittenmathsymbols
+
+### for Suggestion 
+email: pratikmpatil12@gmail.com
+LinkedIN : https://www.linkedin.com/in/pratik-patil-3108081a5/
