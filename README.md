@@ -56,6 +56,9 @@ You can run all the three ipynb files either separately or sequentially.
 
 ![](images/capture.png)
 
+## solved Equation
+![](images/output.PNG)
+
 ## Reference
 <a name="Reference"></a>
 reference https://github.com/vipul79321/Handwritten-Equation-Solver <br>
